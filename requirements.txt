@@ -6,3 +6,6 @@ django-environ
 python-dotenv
 django-allauth
 requests
+psycopg[binary]==3.2.2
+python-dotenv>=1.0.1
+django-cors-headers>=4.4.0
